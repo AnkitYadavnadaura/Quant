@@ -57,8 +57,8 @@ ML-Trading-Project/
 
 ### 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/ml-trading-project.git
-cd ml-trading-project
+git clone https://github.com/ankityadavnadaura/Quant.git
+cd Quant
 ````
 
 ### 2. Install dependencies:
@@ -71,7 +71,7 @@ pip install -r requirements.txt
 
 ```bash
 # Run notebook (preferred for experimentation)
-jupyter notebook notebooks/ML_Trading_Experiment.ipynb
+jupyter/colab notebook --- https://colab.research.google.com/drive/1agEgjrWuEaFKt55yuhUjg2L9GbEC_gDo?usp=sharing
 
 # Or run training script
 python src/model_train.py
